@@ -1,0 +1,8 @@
+{
+  "client": "sqlite3",
+  "connection": {
+    "filename": "app/moka.sqlite"
+  },
+  "useNullAsDefault": true,
+  "debug": false
+}
