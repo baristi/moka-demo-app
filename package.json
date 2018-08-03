@@ -1,0 +1,19 @@
+{
+  "name": "moka-demo-app",
+  "version": "0.1.0",
+  "description": "A demo app for Moka, a web application framework, aiming at high-productivity through simplicity.",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baristi/moka-demo-app.git"
+  },
+  "author": "Arbeitsgemeinschaft Baristi",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/baristi/moka-demo-app/issues"
+  },
+  "homepage": "https://github.com/baristi/moka-demo-app#readme",
+  "dependencies": {
+    "sqlite3": "^4.0.2"
+  }
+}
